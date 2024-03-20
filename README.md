@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+Are you reading me?
+
+I don't yet know what to put here so mostly just experimenting with random stuff
+
+### Where can you find me?
+
+I am Shivam Aryan!
+
+MNNIT undergranduate (CSE'27)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/273865811133857792)](https://discord.com/users/273865811133857792)
+
+[![ultraaryan10](https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10)](https://codeforces.com/profile/ultraaryan10)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ultraaryan10)](https://leetcode.com/ultraaryan10)
+
+
 <!--
 **Aryan10/Aryan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
