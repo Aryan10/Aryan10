@@ -10,6 +10,8 @@ Introduction? My mame is Shivam Aryan. MNNIT undergranduate (CSE'27)
 
 I like programming! I know C, C++, Python, JavaScript and maybe more.
 
+Where I am active:
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/273865811133857792)](https://discord.com/users/273865811133857792)
 
 [![ultraaryan10](https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10)](https://codeforces.com/profile/ultraaryan10)
