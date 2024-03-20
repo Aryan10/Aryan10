@@ -2,13 +2,11 @@
 
 Are you reading me?
 
-I don't yet know what to put here so mostly just experimenting with random stuff
+I don't really know what to put here yet so mostly just experimenting with random stuff
 
 ### Where can you find me?
 
-I am Shivam Aryan!
-
-MNNIT undergranduate (CSE'27)
+Introduction? My mame is Shivam Aryan. MNNIT undergranduate (CSE'27)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/273865811133857792)](https://discord.com/users/273865811133857792)
 
