@@ -2,13 +2,15 @@
 
 Are you reading me?
 
-I don't really know what to put here yet so mostly just experimenting with random stuff
+I don't really know what to put here yet so mostly just experimenting with random stuff :D
 
-### Where can you find me?
+### Introduction?
 
 Introduction? My mame is Shivam Aryan. MNNIT undergranduate (CSE'27)
 
-I like programming! I know C, C++, Python, JavaScript and maybe more.
+I like programming! I know C, C++, Python, JavaScript and maybe more >.>
+
+### Where can you find me?
 
 Where I am active:
 
