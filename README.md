@@ -16,6 +16,8 @@ Where I am active:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/273865811133857792)](https://discord.com/users/273865811133857792)
 
+Where I hope to be active:
+
 [![ultraaryan10](https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10)](https://codeforces.com/profile/ultraaryan10)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ultraaryan10)](https://leetcode.com/ultraaryan10)
