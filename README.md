@@ -6,9 +6,13 @@ I don't really know what to put here yet so mostly just experimenting with rando
 
 ### Introduction?
 
-Introduction? My mame is Shivam Aryan. MNNIT undergranduate (CSE'27)
+Introduction? I am Shivam Aryan. MNNIT undergranduate (CSE'27)
 
 I like programming! I know C, C++, Python, JavaScript and maybe more >.>
+
+### Projects?
+
+Nothing of significance yet.
 
 ### Where can you find me?
 
