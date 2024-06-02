@@ -1,18 +1,6 @@
 ### Hi there 👋
 
-Are you reading me?
-
-I don't really know what to put here yet so mostly just experimenting with random stuff :D
-
-### Introduction?
-
-Introduction? I am Shivam Aryan. MNNIT undergranduate (CSE'27)
-
-I like programming! I know C, C++, Python, JavaScript and maybe more >.>
-
-### Projects?
-
-Nothing of significance yet.
+[https://aryan10.github.io](https://aryan10.github.io)
 
 ### Where can you find me?
 
