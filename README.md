@@ -14,6 +14,8 @@ Where I hope to be active:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ultraaryan10)](https://leetcode.com/ultraaryan10)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Aryan10/Aryan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
