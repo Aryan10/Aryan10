@@ -16,7 +16,7 @@ Where I hope to be active:
 
 [![Codechef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/ultraaryan10)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan10)](https://github.com/Aryan10)
 
 
 <!--
