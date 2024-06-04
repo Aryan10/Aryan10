@@ -10,9 +10,11 @@ Where I am active:
 
 Where I hope to be active:
 
-[![ultraaryan10](https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10)](https://codeforces.com/profile/ultraaryan10)
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10)](https://codeforces.com/profile/ultraaryan10)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ultraaryan10)](https://leetcode.com/ultraaryan10)
+[![Leetcode](https://leetcard.jacoblin.cool/ultraaryan10)](https://leetcode.com/ultraaryan10)
+
+[![Codechef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/ultraaryan10)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan10)](https://github.com/anuraghazra/github-readme-stats)
 
