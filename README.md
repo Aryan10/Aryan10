@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://aryan10.github.io](https://aryan10.github.io)
+[More about me...](https://aryan10.github.io)
 
 ### Where can you find me?
 
