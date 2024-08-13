@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[More about me...](https://aryan10.github.io)
+[More about me...](https://linkedin.com/in/ultraaryan10)
 
 ### Where can you find me?
 
