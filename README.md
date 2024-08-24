@@ -2,19 +2,19 @@
 
 [More about me...](https://linkedin.com/in/ultraaryan10)
 
-### Where can you find me?
-
-Where I am active:
+- 🔭 I’m currently working on some intresting projects >.>
+- 🌱 I’m currently learning how to teach machines
+- 👯 I’m looking to collaborate on some cool projects!
+- 💬 Ask me about competitive programming
+- 📫 How to reach me: Discord `@aryan.10`
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/273865811133857792)](https://discord.com/users/273865811133857792)
 
-Where I hope to be active:
+😄 Where I hope to be active:
 
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10)](https://codeforces.com/profile/ultraaryan10)
 
 [![Leetcode](https://leetcard.jacoblin.cool/ultraaryan10)](https://leetcode.com/ultraaryan10)
-
-[![Codechef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/ultraaryan10)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan10)](https://github.com/Aryan10)
 
