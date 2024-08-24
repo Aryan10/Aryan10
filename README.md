@@ -3,9 +3,9 @@
 [More about me...](https://linkedin.com/in/ultraaryan10)
 
 - 🔭 I’m currently working on some intresting projects >.>
-- 🌱 I’m currently learning how to teach machines
-- 👯 I’m looking to collaborate on some cool projects!
-- 💬 Ask me about competitive programming
+- 🌱 I’m currently learning how to teach machines :P
+- 👯 I’m looking to collaborate on some cool projects :D
+- 💬 Ask me anything about programming (exciting!) 
 - 📫 How to reach me: Discord `@aryan.10`
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/273865811133857792)](https://discord.com/users/273865811133857792)
