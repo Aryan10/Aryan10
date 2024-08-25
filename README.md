@@ -14,7 +14,7 @@
 
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10)](https://codeforces.com/profile/ultraaryan10)
 
-[![Leetcode](https://leetcard.jacoblin.cool/ultraaryan10)](https://leetcode.com/ultraaryan10)
+[![Leetcode](https://leetcard.jacoblin.cool/ultraaryan10?ext=contest)](https://leetcode.com/ultraaryan10)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan10)](https://github.com/Aryan10)
 
