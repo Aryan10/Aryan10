@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to teach machines :P
 - 👯 I’m looking to collaborate on some cool projects :D
 - 💬 Ask me anything about programming (exciting!) 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ultraaryan10)
+- 📫 How to reach me: [![Shivam Aryan](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ultraaryan10)
 
 🤔 Where I am usually active:
 
