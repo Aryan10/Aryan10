@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Aryan10" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c3ddde90-fde9-48b1-9f2c-b033b85f7e45" height="130">
+    <img src="https://github.com/user-attachments/assets/c3ddde90-fde9-48b1-9f2c-b033b85f7e45" height="175">
   </a>
 
   
