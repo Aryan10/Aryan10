@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Aryan10" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c3ddde90-fde9-48b1-9f2c-b033b85f7e45" height="150">
+    <img src="https://github.com/user-attachments/assets/c3ddde90-fde9-48b1-9f2c-b033b85f7e45" height="130">
   </a>
 
   
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <h3>🏆 GitHub Stats & Contributions</h3>
+  <h3>📊 GitHub Stats & Contributions</h3>
   <a href="https://github.com/Aryan10" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Aryan10&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   </a>
