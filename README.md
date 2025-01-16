@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://github.com/Aryan10" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ee1acaf3-5571-419e-9b30-58bd6a119e9f" height="150">
+    <img src="https://github.com/user-attachments/assets/ea13f4ba-140c-4171-a091-029b128292a0" height="150">
   </a>
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ultraaryan10)
 [![Discord](https://img.shields.io/badge/Discord-%237292B6.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/273865811133857792)
