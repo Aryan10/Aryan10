@@ -16,9 +16,9 @@
 
 🔭 Currently working on AI projects like reinforcement learning and deep learning models, and experimenting with Spring.
 
-🌱 Currently learning reinforcement learning, ML algorithms, and expanding knowledge of web development frameworks and cloud technologies.
+🌱 Currently learning reinforcement learning, ML algorithms, and expanding my knowledge of backend development.
 
-👯 Open to collaborations on innovative projects in machine learning, web development, or competitive programming!
+👯 Open to collaborations on innovative projects in machine learning, web development, or algorithms!
 
 💬 Happy to chat about anything related to programming.
 
