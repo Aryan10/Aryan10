@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Aryan10" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c3ddde90-fde9-48b1-9f2c-b033b85f7e45" height="175">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas+&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shivam+Aryan!;%3CCompetitive+Programmer%3E;%3CMachine+Learning+Enthusiast%3E;%3CBackend+Developer%3E;%3CPassionate+about+Computer+Science%3E" alt="" />
   </a>
 
   
@@ -45,7 +45,8 @@
   <a href="https://github.com/Aryan10" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Aryan10&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   </a>
-  <a href="https://github.com/Aryan10" target="_blank">
+<!--   <a href="https://github.com/Aryan10" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan10&theme=radical" alt="GitHub Streak" height="150" />
-  </a>
+  </a> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan10" alt="Github Trophy">
 </div>
