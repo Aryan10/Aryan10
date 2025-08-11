@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://github.com/Aryan10" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas+&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shivam+Aryan!;%3CCompetitive+Programmer%3E;%3CMachine+Learning+Enthusiast%3E;%3CBackend+Developer%3E;%3CPassionate+about+Computer+Science%3E" alt="" />
-  </a>
-
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ultraaryan10)
 [![Discord](https://img.shields.io/badge/Discord-%237292B6.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/273865811133857792)
@@ -12,15 +8,7 @@
 
 </div>
 
-🚀 I'm a passionate programmer and an enthusiast of all things Computer Science, constantly exploring new technologies and working on projects that challenge me to grow.
-
-🔭 Currently working on AI projects like reinforcement learning and deep learning models, and experimenting with Spring.
-
-🌱 Currently learning reinforcement learning, ML algorithms, and expanding my knowledge of backend development.
-
-👯 Open to collaborations on innovative projects in machine learning, web development, or algorithms!
-
-💬 Happy to chat about anything related to programming.
+I am a passionate programmer and lifelong learner deeply fascinated by all aspects of computer science, from algorithms and data structures to machine learning and system design. I continuously explore emerging technologies and theoretical concepts to deepen my understanding and apply them in practical ways. My current focus includes developing reinforcement learning and deep learning models, building intelligent AI systems, and crafting scalable backend solutions with Spring Boot!
 
 ---
 <div align="center">
