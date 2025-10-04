@@ -8,11 +8,10 @@
 
 </div>
 
-I am a passionate programmer and lifelong learner deeply fascinated by all aspects of computer science, from algorithms and data structures to machine learning and system design. I continuously explore emerging technologies and theoretical concepts to deepen my understanding and apply them in practical ways. My current focus includes developing reinforcement learning and deep learning models, building intelligent AI systems, and crafting scalable backend solutions with Spring Boot!
-
 ---
+
 <div align="center">
-  <h3>🚀 Where I like to hang out:</h3>
+  <h3>😴 Where I like to hang out:</h3>
   <a href="https://discord.com/users/273865811133857792" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/273865811133857792?showDisplayName=true&idleMessage=Probably%20invisible%20as%20usual..." alt="Discord Presence" height="150" />
   </a>
