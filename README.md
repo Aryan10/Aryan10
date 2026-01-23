@@ -11,17 +11,13 @@
 ---
 
 <div align="center">
-  <h3>😴 Where I like to hang out:</h3>
-  <a href="https://discord.com/users/273865811133857792" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/273865811133857792?showDisplayName=true&idleMessage=Probably%20invisible%20as%20usual..." alt="Discord Presence" height="150" />
-  </a>
-</div>
-
-<div align="center">
   <h3>🏆 Competitive Programming</h3>
   <a href="https://codeforces.com/profile/ultraaryan10" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10" alt="Codeforces" height="250" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://leetcode.com/ultraaryan10" target="_blank">
     <img src="https://leetcard.jacoblin.cool/ultraaryan10?ext=contest" alt="Leetcode" height="250" />
   </a>
@@ -32,8 +28,4 @@
   <a href="https://github.com/Aryan10" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Aryan10&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   </a>
-<!--   <a href="https://github.com/Aryan10" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan10&theme=radical" alt="GitHub Streak" height="150" />
-  </a> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryan10" alt="Github Trophy">
 </div>
