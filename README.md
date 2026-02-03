@@ -7,25 +7,3 @@
 [![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ultraaryan10)
 
 </div>
-
----
-
-<div align="center">
-  <h3>🏆 Competitive Programming</h3>
-  <a href="https://codeforces.com/profile/ultraaryan10" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ultraaryan10" alt="Codeforces" height="250" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/ultraaryan10" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ultraaryan10?ext=contest" alt="Leetcode" height="250" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>📊 GitHub Stats & Contributions</h3>
-  <a href="https://github.com/Aryan10" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aryan10&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  </a>
-</div>
