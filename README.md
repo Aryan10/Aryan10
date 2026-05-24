@@ -8,4 +8,4 @@
 
 </div>
 
-I just like programming things, some of those things you can find here on github
+<div align="center"> I just like programming things, some of those things you can find here on github </div>
