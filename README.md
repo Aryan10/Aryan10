@@ -7,3 +7,5 @@
 [![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ultraaryan10)
 
 </div>
+
+I just like programming things, some of those things you can find here on github
